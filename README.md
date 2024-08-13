@@ -1,6 +1,6 @@
 # Teste | README DIO ##
 
-*testes sobre readme enquanto assisto* (entre *)
+*teste sobre readme enquanto assisto* (entre *)
 
 ```
 usar ` acima e abaixo 3x. E no meio escrever o que for desejado
