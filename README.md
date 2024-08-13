@@ -1,18 +1,19 @@
-## Getting Started
+# Teste | README DIO ##
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+*testes sobre readme enquanto assisto* (entre *)
 
-## Folder Structure
+```
+usar ` acima e abaixo 3x. E no meio escrever o que for desejado
+```
+Colocar frase dentro de "]" para a palavra virar link e em seguida o link entre ")"
+[testes de link](https://music.youtube.com) 
 
-The workspace contains two folders by default, where:
+## para titulos 1 "#" e para sub titulos 2
+Usar "-" para a bolinha
+- Tópicos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A tabela pode ser desenhada com "|" e "-"
+| exemplo | tabela |
+|---------|--------|
+| Ex. 1  | Ex. 2   |
+ -------------
