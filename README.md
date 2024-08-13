@@ -17,3 +17,4 @@ A tabela pode ser desenhada com "|" e "-"
 |---------|--------|
 | Ex. 1  | Ex. 2   |
  -------------
+$Commit-InterfaceVScode $
